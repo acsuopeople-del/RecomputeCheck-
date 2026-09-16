@@ -1,0 +1,21 @@
+customer_id,gender,tenure,contract,monthly_charges,total_charges,churn
+C001,Female,1,Month-to-month,29.85,29.85,No
+C002,Male,34,One year,56.95,1889.50,No
+C003,Male,2,Month-to-month,53.85,108.15,Yes
+C004,Male,45,One year,42.30,1840.75,No
+C005,Female,2,Month-to-month,70.70,151.65,Yes
+C006,Female,8,Month-to-month,99.65,820.50,Yes
+C007,Male,22,Month-to-month,89.10,1949.40,No
+C008,Female,10,Month-to-month,29.75,301.90,No
+C009,Female,28,Month-to-month,104.80,3046.05,Yes
+C010,Male,62,One year,56.15,3487.95,No
+C011,Male,13,Month-to-month,18.95,326.80,No
+C012,Male,16,Two year,18.95,326.80,No
+C013,Male,58,Two year,100.35,5681.10,Yes
+C014,Male,49,Month-to-month,103.70,5036.30,Yes
+C015,Male,25,Month-to-month,20.65,520.10,No
+C016,Female,69,Two year,113.25,7895.15,No
+C017,Female,52,One year,20.65,1022.95,No
+C018,Male,71,Two year,106.70,7382.25,No
+C019,Female,10,Month-to-month,49.95,499.50,Yes
+C020,Male,12,Month-to-month,20.35,251.15,No

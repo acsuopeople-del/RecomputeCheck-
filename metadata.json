@@ -1,0 +1,7 @@
+{
+  "name": "RecomputeCheck",
+  "description": "Verifying AI-written data reports by recalculating numeric claims directly from tabular datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
